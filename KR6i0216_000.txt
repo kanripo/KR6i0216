@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 長爪梵志請問經
+#+DATE: 2015-08-30 20:13:03.586907
+#+PROPERTY: JUAN 0
