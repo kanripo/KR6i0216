@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:04.562727
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:56
 #+TITLE: 長爪梵志請問經
 #+PROPERTY: CBETA_ID T14n0584
 #+PROPERTY: ID KR6i0216
@@ -127,9 +127,9 @@ No. 584¶
 　花莊及歌舞，
 　高大非時食，¶
 　我今悉遠離，
-　受持淨八支。」
+　受持淨八支。」」
 #+END_VERSE
-」¶
+¶
 
 第二、第三亦如是說。¶
 
